@@ -14,3 +14,12 @@ if (num1 == num2):
     print("num 1 is equals to num2")
 else:
     print("num1 is not equals to num2")
+
+
+# num1 = float(input("Enter the first number: "))
+#
+# num2 = float(input("Enter the second number: "))
+#
+# result = compare_numbers(num1, num2)
+#
+# print(result)
