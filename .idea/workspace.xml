@@ -4,9 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fcd7dc4-c6da-48a4-9ead-874511ce2a76" name="Changes" comment="adding lab 001 file">
-      <change afterPath="$PROJECT_DIR$/Lab002.py" afterDir="false" />
+    <list default="true" id="9fcd7dc4-c6da-48a4-9ead-874511ce2a76" name="Changes" comment="Task for 21-06-2024 added">
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task/Anagram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task/CountVowelsConsonant.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_19062024/Lab048.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_19062024/Lab050.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_19062024/Lab051.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_19062024/Lab052.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_19062024/Lab053.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_19062024/Lab054.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_19062024/Lab49.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_21062024/081.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_21062024/Lab056.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_21062024/Lab057.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_21062024/Lab058.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_21062024/Lab059.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_21062024/Lab060.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_21062024/Lab061.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_21062024/Lab062.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_21062024/Lab063.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_21062024/Lab064.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_21062024/Lab065.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_21062024/Lab55.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_24-06-2024/001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_26062024/001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_26062024/002.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task/TaskManager.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task/TaskManager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex_05062024/Lab010.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_05062024/Lab010.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex_12062024/Lab031.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_12062024/Lab031.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,9 +50,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2i9CBYvW42USc1uVt2WfEhm7gWr" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -36,13 +63,206 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.001.executor": "Debug",
+    "Python.002.executor": "Run",
+    "Python.0089.executor": "Run",
+    "Python.CountVowelsConsonant.executor": "Run",
     "Python.Lab001.executor": "Run",
+    "Python.Lab002.executor": "Run",
+    "Python.Lab003.executor": "Run",
+    "Python.Lab004.executor": "Run",
+    "Python.Lab005.executor": "Run",
+    "Python.Lab006.executor": "Run",
+    "Python.Lab007.executor": "Run",
+    "Python.Lab008.executor": "Run",
+    "Python.Lab010.executor": "Run",
+    "Python.Lab011.executor": "Run",
+    "Python.Lab012.executor": "Run",
+    "Python.Lab013.executor": "Run",
+    "Python.Lab014.executor": "Run",
+    "Python.Lab015.executor": "Run",
+    "Python.Lab016.executor": "Run",
+    "Python.Lab017.executor": "Run",
+    "Python.Lab018.executor": "Run",
+    "Python.Lab019.executor": "Run",
+    "Python.Lab020.executor": "Run",
+    "Python.Lab021.executor": "Run",
+    "Python.Lab022.executor": "Run",
+    "Python.Lab023.executor": "Run",
+    "Python.Lab024.executor": "Run",
+    "Python.Lab025.executor": "Run",
+    "Python.Lab026.executor": "Run",
+    "Python.Lab027.executor": "Run",
+    "Python.Lab028.executor": "Run",
+    "Python.Lab030.executor": "Run",
+    "Python.Lab031.executor": "Run",
+    "Python.Lab032.executor": "Debug",
+    "Python.Lab033.executor": "Run",
+    "Python.Lab034.executor": "Run",
+    "Python.Lab035.executor": "Run",
+    "Python.Lab036.executor": "Run",
+    "Python.Lab037.executor": "Run",
+    "Python.Lab038.executor": "Run",
+    "Python.Lab039.executor": "Run",
+    "Python.Lab040.executor": "Run",
+    "Python.Lab041.executor": "Run",
+    "Python.Lab042.executor": "Run",
+    "Python.Lab043.executor": "Run",
+    "Python.Lab044.executor": "Run",
+    "Python.Lab045.executor": "Run",
+    "Python.Lab047.executor": "Run",
+    "Python.Lab048.executor": "Run",
+    "Python.Lab050.executor": "Run",
+    "Python.Lab051.executor": "Run",
+    "Python.Lab053.executor": "Run",
+    "Python.Lab056.executor": "Run",
+    "Python.Lab057.executor": "Run",
+    "Python.Lab058.executor": "Run",
+    "Python.Lab059.executor": "Run",
+    "Python.Lab060.executor": "Run",
+    "Python.Lab061.executor": "Run",
+    "Python.Lab062.executor": "Run",
+    "Python.Lab063.executor": "Run",
+    "Python.Lab064.executor": "Run",
+    "Python.Lab065.executor": "Run",
+    "Python.Lab080.executor": "Run",
+    "Python.Lab49.executor": "Run",
+    "Python.Lab55.executor": "Run",
+    "Python.Lb052.executor": "Run",
+    "Python.PallindromeString.executor": "Run",
+    "Python.ReverseString.executor": "Run",
+    "Python.StarPatterenTraingle.executor": "Run",
+    "Python.Task1.executor": "Run",
+    "Python.Task2.executor": "Run",
+    "Python.Task_12062024.executor": "Run",
+    "Python.Task_12062024_01.executor": "Run",
+    "Python.Task_12062024_02.executor": "Run",
+    "Python.Task_12062024_3.executor": "Run",
+    "Python.lab046.executor": "Run",
+    "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bhosa\PycharmProjects\Python3XATB_PB\ex_030362024" />
+    </key>
+  </component>
   <component name="RunManager">
+    <configuration name="001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python3XATB_PB" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex_24-06-2024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex_24-06-2024/001.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab037" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python3XATB_PB" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex_14062024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex_14062024/Lab037.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab042" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python3XATB_PB" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex_17062024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex_17062024/Lab042.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab49" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python3XATB_PB" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex_19062024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex_19062024/Lab49.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PallindromeString" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python3XATB_PB" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task/PallindromeString.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Python3XATB_PB" />
       <option name="ENV_FILES" value="" />
@@ -65,6 +285,15 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Lab49" />
+        <item itemvalue="Python.001" />
+        <item itemvalue="Python.PallindromeString" />
+        <item itemvalue="Python.Lab042" />
+        <item itemvalue="Python.Lab037" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -90,12 +319,119 @@
       <option name="project" value="LOCAL" />
       <updated>1718893981054</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="adding lab 002 file">
+      <option name="closed" value="true" />
+      <created>1718894265957</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718894265957</updated>
+    </task>
+    <task id="LOCAL-00003" summary="adding day 2 files">
+      <option name="closed" value="true" />
+      <created>1718909925901</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718909925901</updated>
+    </task>
+    <task id="LOCAL-00004" summary="changes done">
+      <option name="closed" value="true" />
+      <created>1718909967537</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718909967537</updated>
+    </task>
+    <task id="LOCAL-00005" summary="07062024: Data types&gt; string&amp;str methods, none, list&amp; methods,Input Function added">
+      <option name="closed" value="true" />
+      <created>1719040442340</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1719040442340</updated>
+    </task>
+    <task id="LOCAL-00006" summary="lab019:Escape Seq&#10;lab020:Arithmetic Operators&#10;lab021:Logical Operators&#10;lab022:Ternary Operators&#10;lab023:Area of circle program&#10;lab024:Area of circle program in single line">
+      <option name="closed" value="true" />
+      <created>1719052362858</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1719052362858</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Task 1 and 2 added">
+      <option name="closed" value="true" />
+      <created>1719073688125</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1719073688125</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Task 1 and 2 added">
+      <option name="closed" value="true" />
+      <created>1719074367128</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1719074367128</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Program file for Conditions and loop added&#10;For &#10;Loop&#10;If else&#10;If elif else">
+      <option name="closed" value="true" />
+      <created>1719079028896</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1719079028896</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Task1:Leap year &#10;Task 2 : Equilateral/Iso/Scalene Triage">
+      <option name="closed" value="true" />
+      <created>1719079118049</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1719079118049</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Lab034:For loop + break&#10;Lab035:break/ pass &#10;Lab036:multiple condition in for loop&#10;Lab37:multiple condition with match&#10;Lab038:Program to match username and password using match&#10;Lab039:Function&#10;Lab040:Passing argument in function&#10;Lab041:Real time program &gt;def function with match">
+      <option name="closed" value="true" />
+      <created>1719137894508</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1719137894508</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Lab042:def function&#10;Lab043:def function with return&#10;Lab044:def function with passing arguments&#10;Lab045:def function with passing *arguments&#10;Lab045:Program1_def function with passing *arguments&#10;Lab045:Program2_def function with passing *arguments&#10;Task_12062024_01.py and &#10;Task_12062024_03.py  updated">
+      <option name="closed" value="true" />
+      <created>1719146762014</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1719146762014</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Task for 21-06-2024 added">
+      <option name="closed" value="true" />
+      <created>1719161011452</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1719161011452</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adding lab 001 file" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding lab 001 file" />
+    <MESSAGE value="adding lab 002 file" />
+    <MESSAGE value="adding day 2 files" />
+    <MESSAGE value="changes done" />
+    <MESSAGE value="07062024: Data types&gt; string&amp;str methods, none, list&amp; methods,Input Function added" />
+    <MESSAGE value="lab019:Escape Seq&#10;lab020:Arithmetic Operators&#10;lab021:Logical Operators&#10;lab022:Ternary Operators&#10;lab023:Area of circle program&#10;lab024:Area of circle program in single line" />
+    <MESSAGE value="Task 1 and 2 added" />
+    <MESSAGE value="Program file for Conditions and loop added&#10;For &#10;Loop&#10;If else&#10;If elif else" />
+    <MESSAGE value="Task1:Leap year &#10;Task 2 : Equilateral/Iso/Scalene Triage" />
+    <MESSAGE value="Lab034:For loop + break&#10;Lab035:break/ pass &#10;Lab036:multiple condition in for loop&#10;Lab37:multiple condition with match&#10;Lab038:Program to match username and password using match&#10;Lab039:Function&#10;Lab040:Passing argument in function&#10;Lab041:Real time program &gt;def function with match" />
+    <MESSAGE value="Lab042:def function&#10;Lab043:def function with return&#10;Lab044:def function with passing arguments&#10;Lab045:def function with passing *arguments&#10;Lab045:Program1_def function with passing *arguments&#10;Lab045:Program2_def function with passing *arguments&#10;Task_12062024_01.py and &#10;Task_12062024_03.py  updated" />
+    <MESSAGE value="Task for 21-06-2024 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task for 21-06-2024 added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -104,6 +440,21 @@
           <url>file://$PROJECT_DIR$/main.py</url>
           <line>8</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ex_24-06-2024/001.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ex_24-06-2024/001.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ex_24-06-2024/001.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

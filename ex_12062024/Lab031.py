@@ -6,3 +6,7 @@
 
 x= list(range(5))
 print(x)    #[0, 1, 2, 3, 4]
+
+#range can be negative
+x= list(range(-5))
+print(x)    #[]
